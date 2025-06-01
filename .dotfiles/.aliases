@@ -7,3 +7,4 @@ alias lla="ls -la"
 
 alias grep='grep --color=auto'
 alias v="nvim"
+alias open="xdg-open"
